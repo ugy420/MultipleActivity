@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleActivity</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="map">Map</string>
+    <string name="go">Go!</string>
+    <string name="menu">Menu</string>
+</resources>
